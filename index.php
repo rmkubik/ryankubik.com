@@ -14,7 +14,7 @@
   </head>
   <body>
     <?php
-      $home_class = "active";
+      $home_active = "active";
       include("navbar.php");
     ?>
     <div class="container">

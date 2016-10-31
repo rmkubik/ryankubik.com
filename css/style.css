@@ -96,3 +96,22 @@ body {
 .screenshot_list li {
   margin-bottom: 10px;
 }
+
+.card-project a {
+  text-decoration: none;
+  color: #333;
+}
+.card-project a:hover {
+  text-decoration: none;
+  color: #333;
+}
+
+.card-project a:visited {
+  text-decoration: none;
+  color: #333;
+}
+
+.card-project a:active {
+  text-decoration: none;
+  color: #333;
+}
