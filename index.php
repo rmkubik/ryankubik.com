@@ -23,40 +23,28 @@
       </div>
       <div class="row">
         <div class="col-sm-4">
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <img class="img-responsive" src="../images/pokemon/gameplay.png"/>
-            </div>
-            <div class="panel-body">
-              <h3> Gotta Match 'Em All </h3>
-              <p> <?php echo $concentration_summary; ?> </p>
-              <button class="btn btn-default center-block"> More </button>
-            </div>
-          </div> <!-- panel -->
+          <?php
+            $card_title = "Gotta Match 'Em All";
+            $card_img = "images/pokemon/gameplay.png";
+            $card_desc = $concentration_summary;
+            include("project_card.php");
+          ?>
         </div> <!-- col -->
         <div class="col-sm-4">
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <img class="img-responsive" src="../images/platformer/gameplay.png"/>
-            </div>
-            <div class="panel-body">
-              <h3> Platformer </h3>
-              <p> <?php echo $concentration_summary; ?> </p>
-              <button class="btn btn-default"> More </button>
-            </div>
-          </div> <!-- panel -->
+          <?php
+            $card_title = "Platformer";
+            $card_img = "images/platformer/gameplay.png";
+            $card_desc = $concentration_summary;
+            include("project_card.php");
+          ?>
         </div> <!-- col -->
         <div class="col-sm-4">
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <img class="img-responsive" src="../images/LWJGLTD/gameplay.png"/>
-            </div>
-            <div class="panel-body">
-              <h3> Board Game </h3>
-              <p> <?php echo $concentration_summary; ?> </p>
-              <button class="btn btn-default"> More </button>
-            </div>
-          </div> <!-- panel -->
+          <?php
+            $card_title = "Board Game";
+            $card_img = "images/LWJGLTD/gameplay.png";
+            $card_desc = $concentration_summary;
+            include("project_card.php");
+          ?>
         </div> <!-- col -->
       </div> <!-- game dev row -->
       <div class="title-underline">
@@ -64,40 +52,28 @@
       </div>
       <div class="row">
         <div class="col-sm-4">
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <img class="img-responsive" src="../images/calendar/calendar_main.png"/>
-            </div>
-            <div class="panel-body">
-              <h3> Calendar </h3>
-              <p> <?php echo $concentration_summary; ?> </p>
-              <button class="btn btn-default center-block"> More </button>
-            </div>
-          </div> <!-- panel -->
+          <?php
+            $card_title = "Calendar";
+            $card_img = "images/calendar/calendar_main.png";
+            $card_desc = $concentration_summary;
+            include("project_card.php");
+          ?>
         </div> <!-- col -->
         <div class="col-sm-4">
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <img class="img-responsive" src="../images/map/map_main.png"/>
-            </div>
-            <div class="panel-body">
-              <h3> Map </h3>
-              <p> <?php echo $concentration_summary; ?> </p>
-              <button class="btn btn-default"> More </button>
-            </div>
-          </div> <!-- panel -->
+          <?php
+            $card_title = "Map";
+            $card_img = "images/map/map_main.png";
+            $card_desc = $concentration_summary;
+            include("project_card.php");
+          ?>
         </div> <!-- col -->
         <div class="col-sm-4">
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <img class="img-responsive" src="../images/calendar/calendar_video.png"/>
-            </div>
-            <div class="panel-body">
-              <h3> Painter </h3>
-              <p> <?php echo $concentration_summary; ?> </p>
-              <button class="btn btn-default"> More </button>
-            </div>
-          </div> <!-- panel -->
+          <?php
+            $card_title = "Painter";
+            $card_img = "images/calendar/calendar_video.png";
+            $card_desc = $concentration_summary;
+            include("project_card.php");
+          ?>
         </div> <!-- col -->
       </div> <!-- game dev row -->
       <div class="title-underline">
@@ -105,40 +81,28 @@
       </div>
       <div class="row">
         <div class="col-sm-4">
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <img class="img-responsive" src="../images/vectors/Vectors-11.svg"/>
-            </div>
-            <div class="panel-body">
-              <h3> Logos </h3>
-              <p> <?php echo $concentration_summary; ?> </p>
-              <button class="btn btn-default center-block"> More </button>
-            </div>
-          </div> <!-- panel -->
+          <?php
+            $card_title = "Logos";
+            $card_img = "images/vectors/Vectors-11.svg";
+            $card_desc = $concentration_summary;
+            include("project_card.php");
+          ?>
         </div> <!-- col -->
         <div class="col-sm-4">
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <img class="img-responsive" src="../images/pixels/mar20_64.png"/>
-            </div>
-            <div class="panel-body">
-              <h3> Pixel Art </h3>
-              <p> <?php echo $concentration_summary; ?> </p>
-              <button class="btn btn-default"> More </button>
-            </div>
-          </div> <!-- panel -->
+          <?php
+            $card_title = "Pixel Art";
+            $card_img = "images/pixels/mar20_64.png";
+            $card_desc = $concentration_summary;
+            include("project_card.php");
+          ?>
         </div> <!-- col -->
         <div class="col-sm-4">
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <img class="img-responsive" src="../images/vectors/Vectors-05.svg"/>
-            </div>
-            <div class="panel-body">
-              <h3> Vector Art </h3>
-              <p> <?php echo $concentration_summary; ?> </p>
-              <button class="btn btn-default"> More </button>
-            </div>
-          </div> <!-- panel -->
+          <?php
+            $card_title = "Vector Art";
+            $card_img = "images/vectors/Vectors-05.svg";
+            $card_desc = $concentration_summary;
+            include("project_card.php");
+          ?>
         </div> <!-- col -->
       </div> <!-- game dev row -->
     </div>
