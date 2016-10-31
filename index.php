@@ -7,15 +7,15 @@
     <script src="/js/bootstrap.min.js" type="text/javascript"></script>
     <script src="/js/scripts.js" type="text/javascript"></script>
     <?php
-      include("../functions.php");
-      include("../content.php");
+      //include("../functions.php");
+      include("content.php");
     ?>
     <title>Ryan Kubik</title>
   </head>
   <body>
     <?php
       $home_class = "active";
-      include("../navbar.php");
+      include("navbar.php");
     ?>
     <div class="container">
       <div class="title-underline">

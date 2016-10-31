@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
+<g>
+	<path d="M130.7,106.8H19.3c-3.4,0-6.2-2.8-6.2-6.2V32.1c0-3.4,2.8-6.2,6.2-6.2h111.4c3.4,0,6.2,2.8,6.2,6.2v68.5
+		C136.9,104,134.1,106.8,130.7,106.8z"/>
+	<path fill="#FFFFFF" d="M119.1,99.2H30.9c-3.4,0-6.2-2.8-6.2-6.2V39.6c0-3.4,2.8-6.2,6.2-6.2h88.3c3.4,0,6.2,2.8,6.2,6.2V93
+		C125.3,96.4,122.5,99.2,119.1,99.2z"/>
+	<g>
+		<g>
+			<rect x="91" y="44.6" transform="matrix(-0.5861 -0.8103 0.8103 -0.5861 99.7599 174.8219)" width="7" height="34.6"/>
+			<rect x="91" y="44.6" transform="matrix(-0.1585 0.9874 -0.9874 -0.1585 170.6675 -21.5927)" width="7" height="34.6"/>
+			<rect x="91" y="44.6" transform="matrix(-0.9874 -0.1585 0.1585 -0.9874 178.0568 138.0617)" width="7" height="34.6"/>
+			<circle cx="94.5" cy="61.9" r="13.5"/>
+			<rect x="91" y="44.6" transform="matrix(-0.8103 0.5861 -0.5861 -0.8103 207.4277 56.7041)" width="7" height="34.6"/>
+		</g>
+		<g>
+			<rect x="69.9" y="37.9" transform="matrix(-0.8647 -0.5022 0.5022 -0.8647 110.0278 125.9374)" width="4.1" height="20.4"/>
+			<rect x="69.9" y="37.9" transform="matrix(0.2563 0.9666 -0.9666 0.2563 100.0671 -33.7595)" width="4.1" height="20.4"/>
+			<rect x="69.9" y="37.9" transform="matrix(-0.9666 0.2563 -0.2563 -0.9666 153.8845 76.2458)" width="4.1" height="20.4"/>
+			<circle cx="72" cy="48.2" r="8"/>
+			<rect x="69.9" y="37.9" transform="matrix(-0.5022 0.8647 -0.8647 -0.5022 149.7587 10.0972)" width="4.1" height="20.4"/>
+		</g>
+		<g>
+			<rect x="54.2" y="54.2" transform="matrix(-0.6556 -0.7551 0.7551 -0.6556 40.39 167.2775)" width="8.2" height="40.5"/>
+			
+				<rect x="54.2" y="54.2" transform="matrix(-7.033905e-02 0.9975 -0.9975 -7.033905e-02 136.6884 21.4671)" width="8.2" height="40.5"/>
+			
+				<rect x="54.2" y="54.2" transform="matrix(-0.9975 -7.033916e-02 7.033916e-02 -0.9975 111.302 152.7757)" width="8.2" height="40.5"/>
+			<circle cx="58.3" cy="74.4" r="15.9"/>
+			<rect x="54.2" y="54.2" transform="matrix(-0.7551 0.6556 -0.6556 -0.7551 151.1901 92.3791)" width="8.2" height="40.5"/>
+		</g>
+	</g>
+	<rect x="65.3" y="101.9" width="19.4" height="18.7"/>
+	<path d="M96.8,124.1H53.2c-0.9,0-1.6-0.7-1.6-1.6v-1.6c0-0.9,0.7-1.6,1.6-1.6h43.5c0.9,0,1.6,0.7,1.6,1.6v1.6
+		C98.4,123.4,97.7,124.1,96.8,124.1z"/>
+</g>
+</svg>
