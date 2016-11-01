@@ -7,7 +7,7 @@
         "name":"Unstable",
         "desc":"Adventure through a series of different worlds to find your way back home.",
         "img":"assets/images/projects/unstable_pre_alpha.png",
-        "href":"https://law5guy.itch.io/unstable",
+        "href":"https://github.com/rmkubik/unstable",
         "label": {
           "text":"In Development",
           "color":"default"
@@ -37,7 +37,7 @@
         "name":"Gotta Match 'Em All",
         "desc":"Match all the pokemon copies together in this Pokemon inspired concentration game.",
         "img":"assets/images/projects/matchem.png",
-        "href":"",
+        "href":"matchem",
         "label": {
           "text":"",
           "color":""
@@ -73,7 +73,7 @@
         "name":"Edit Every Damn Day Calendar",
         "desc":"30 seconds of video edited every day by @AldenRoth2 on Instagram.",
         "img":"assets/images/projects/calendar.png",
-        "href":"",
+        "href":"https://github.com/rmkubik/eedd-calendar",
         "label": {
           "text":"In Development",
           "color":"default"
