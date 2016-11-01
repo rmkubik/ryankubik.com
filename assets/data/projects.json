@@ -89,25 +89,21 @@
         "id":"brand",
         "name":"Brand & Advertisement Design",
         "desc":"Logos, Flyers, and Advertisements created for various events and organizations.",
-        "img":"",
+        "img":"assets/images/brand/wvugdc_unity_workshop.jpg",
         "href":"portfolio.php?cat=design&proj=brand",
         "label": {
           "text":"",
           "color":0
         },
         "items": [
-          "assets/images/projects/calendar.png",
-          "assets/images/placeholder.png",
-          "assets/images/placeholder.png",
-          "assets/images/placeholder.png",
-          "assets/images/placeholder.png",
-          "assets/images/placeholder.png",
-          "assets/images/placeholder.png",
-          "assets/images/placeholder.png",
-          "assets/images/placeholder.png",
-          "assets/images/placeholder.png",
-          "assets/images/placeholder.png",
-          "assets/images/placeholder.png"
+          "assets/images/brand/wvugdc_unity_workshop.jpg",
+          "assets/images/brand/wvugdc_flyer.png",
+          "assets/images/brand/wvugdc_logo.svg",
+          "assets/images/brand/wvugdc_banner.png",
+          "assets/images/brand/skp_redesign.svg",
+          "assets/images/brand/skp_yearbook_ad.png",
+          "assets/images/brand/skp_jazz_ad.png",
+          "assets/images/brand/skp_poster.png"
         ]
       },
       {

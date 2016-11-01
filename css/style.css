@@ -71,6 +71,7 @@ body {
 
 .panel-heading {
   padding: 0;
+  border-bottom: 1px solid #ddd;
 }
 
 .panel-heading .img-responsive {
