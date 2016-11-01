@@ -5,14 +5,14 @@
       {
         "name":"Unstable",
         "desc":"Adventure through a series of different worlds to find your way back home.",
-        "img":"assets/images/pokemon/gameplay.png",
+        "img":"",
         "href":"https://law5guy.itch.io/unstable"
       },
       {
         "name":"Sweet & Spooky",
         "desc":"Explore as far as you can into this spooky mansion in this fast paced shooter.",
-        "img":"",
-        "href":""
+        "img":"assets/images/projects/sweet_n_spooky.gif",
+        "href":"http://www.gm48.net/game/?id=331"
       },
       {
         "name":"Procedural Voxel Terrain Generator",
@@ -23,20 +23,20 @@
       {
         "name":"Gotta Match 'Em All",
         "desc":"Match all the pokemon copies together in this Pokemon inspired concentration game.",
-        "img":"",
+        "img":"assets/images/projects/matchem.png",
         "href":""
       },
       {
         "name":"A* Pathfinding Demo",
         "desc":"Place piles of gold and flood tiles to entice adventurers to move around the map.",
-        "img":"",
-        "href":""
+        "img":"assets/images/projects/pathfinder.png",
+        "href":"https://law5guy.itch.io/astar-pathfinder-demo"
       },
       {
         "name":"Quest to Find All",
         "desc":"Look for all of the achievements hidden throughout the world.",
-        "img":"",
-        "href":""
+        "img":"assets/images/projects/quest_to_find_all.png",
+        "href":"https://wvugamedevelopers.itch.io/quest-to-find-all"
       }
     ]
   },
@@ -45,8 +45,8 @@
       "projects": [
       {
         "name":"Edit Every Damn Day Calendar",
-        "desc":"",
-        "img":"",
+        "desc":"30 seconds of video edited every day by @AldenRoth2 on Instagram.",
+        "img":"assets/images/projects/calendar.png",
         "href":""
       }
     ]
@@ -55,22 +55,22 @@
     "name": "Graphic Design",
     "projects": [
       {
-        "name":"Logo Design",
-        "desc":"",
+        "name":"Brand & Advertisement Design",
+        "desc":"Logos, Flyers, and Advertisements created for various events and organizations.",
         "img":"",
         "href":"",
         "img_list": []
       },
       {
         "name":"Pixel Art",
-        "desc":"",
+        "desc":"Forays into pixel art with an eventual intention to create sprites for my games.",
         "img":"",
         "href":"",
         "img_list": []
       },
       {
         "name":"Vector Art",
-        "desc":"",
+        "desc":"Artistic works created using vectors rather than pixels.",
         "img":"",
         "href":"",
         "img_list": []

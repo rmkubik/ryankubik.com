@@ -1,11 +1,11 @@
 <?php
-if (!isset($card_title))
+if (!isset($card_title) || $card_title === "")
   $card_title = "";
-if (!isset($card_img))
-  $card_img = "";
-if (!isset($card_desc))
+if (!isset($card_img) || $card_img === "")
+  $card_img = "assets/images/placeholder.png";
+if (!isset($card_desc) || $card_desc === "")
   $card_desc = "";
-if (!isset($card_href))
+if (!isset($card_href) || $card_href === "")
   $card_href = "";
 ?>
 
@@ -19,4 +19,4 @@ if (!isset($card_href))
       <p> <?php echo $card_desc; ?> </p>
     </div>
   </a>
-</div> <!-- panel -->
+</div>
