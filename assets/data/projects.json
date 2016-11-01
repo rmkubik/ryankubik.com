@@ -1,11 +1,12 @@
 [
   {
+    "id":"gamedev",
     "name": "Game Development",
     "projects": [
       {
         "name":"Unstable",
         "desc":"Adventure through a series of different worlds to find your way back home.",
-        "img":"",
+        "img":"assets/images/projects/unstable_pre_alpha.png",
         "href":"https://law5guy.itch.io/unstable"
       },
       {
@@ -41,6 +42,7 @@
     ]
   },
   {
+    "id":"webdev",
     "name": "Web Development",
       "projects": [
       {
@@ -52,28 +54,45 @@
     ]
   },
   {
+    "id":"design",
     "name": "Graphic Design",
     "projects": [
       {
+        "id":"brand",
         "name":"Brand & Advertisement Design",
         "desc":"Logos, Flyers, and Advertisements created for various events and organizations.",
         "img":"",
         "href":"",
-        "img_list": []
+        "items": [
+          "assets/images/projects/calendar.png",
+          "assets/images/placeholder.png",
+          "assets/images/placeholder.png",
+          "assets/images/placeholder.png",
+          "assets/images/placeholder.png",
+          "assets/images/placeholder.png",
+          "assets/images/placeholder.png",
+          "assets/images/placeholder.png",
+          "assets/images/placeholder.png",
+          "assets/images/placeholder.png",
+          "assets/images/placeholder.png",
+          "assets/images/placeholder.png"
+        ]
       },
       {
+        "id":"pixel",
         "name":"Pixel Art",
         "desc":"Forays into pixel art with an eventual intention to create sprites for my games.",
         "img":"",
         "href":"",
-        "img_list": []
+        "items": []
       },
       {
+        "id":"vector",
         "name":"Vector Art",
         "desc":"Artistic works created using vectors rather than pixels.",
         "img":"",
         "href":"",
-        "img_list": []
+        "items": []
       }
     ]
   }
