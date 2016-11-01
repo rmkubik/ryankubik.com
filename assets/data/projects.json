@@ -1,18 +1,18 @@
 [
   {
     "name": "Game Development",
-    "content": [
+    "projects": [
       {
         "name":"Unstable",
         "desc":"Adventure through a series of different worlds to find your way back home.",
         "img":"assets/images/pokemon/gameplay.png",
-        "href":"https://law5guy.itch.io/unstable",
+        "href":"https://law5guy.itch.io/unstable"
       },
       {
         "name":"Sweet & Spooky",
         "desc":"Explore as far as you can into this spooky mansion in this fast paced shooter.",
         "img":"",
-        "href":"",
+        "href":""
       },
       {
         "name":"Procedural Voxel Terrain Generator",
@@ -24,62 +24,56 @@
         "name":"Gotta Match 'Em All",
         "desc":"Match all the pokemon copies together in this Pokemon inspired concentration game.",
         "img":"",
-        "href":"",
+        "href":""
       },
       {
         "name":"A* Pathfinding Demo",
         "desc":"Place piles of gold and flood tiles to entice adventurers to move around the map.",
         "img":"",
-        "href":"",
+        "href":""
       },
       {
         "name":"Quest to Find All",
         "desc":"Look for all of the achievements hidden throughout the world.",
         "img":"",
-        "href":"",
+        "href":""
       }
     ]
-  }
+  },
   {
     "name": "Web Development",
-      "content": [
+      "projects": [
       {
         "name":"Edit Every Damn Day Calendar",
         "desc":"",
         "img":"",
-        "href":"",
+        "href":""
       }
     ]
-  }
+  },
   {
     "name": "Graphic Design",
-    "content": [
+    "projects": [
       {
         "name":"Logo Design",
         "desc":"",
         "img":"",
         "href":"",
-        "img_list": [
-
-        ]
+        "img_list": []
       },
       {
         "name":"Pixel Art",
         "desc":"",
         "img":"",
         "href":"",
-        "img_list": [
-
-        ]
+        "img_list": []
       },
       {
         "name":"Vector Art",
         "desc":"",
         "img":"",
         "href":"",
-        "img_list": [
-
-        ]
+        "img_list": []
       }
     ]
   }

@@ -4,7 +4,6 @@
     <?php
       $title = "Ryan Kubik";
       include("header.php");
-      include("content.php");
     ?>
   </head>
   <body>
@@ -14,37 +13,24 @@
     ?>
     <div class="container">
       <?php
-        
+        $string = file_get_contents("assets/data/projects.json");
+        $projects_data = json_decode($string, true);
+        for ($i = 0; $i < count($projects_data); $i++) {
+          echo '<h2>' . $projects_data[$i]["name"] . '</h2>';
+          echo '<div class="row">';
+          for ($proj = 0; $proj < count($projects_data[$i]["projects"]); $proj++) {
+            echo '<div class="col-sm-4">';
+            $card_title = $projects_data[$i]["projects"][$proj]["name"];
+            $card_img = $projects_data[$i]["projects"][$proj]["img"];
+            $card_desc = $projects_data[$i]["projects"][$proj]["desc"];
+            $card_href = $projects_data[$i]["projects"][$proj]["href"];
+            include("project_card.php");
+            echo '</div>';
+          }
+          echo '</div>';
+
+        }
       ?>
-      <div class="title-underline">
-        <h2> Game Development </h2>
-      </div>
-      <div class="row">
-        <div class="col-sm-4">
-          <?php
-            $card_title = "Gotta Match 'Em All";
-            $card_img = "assets/images/pokemon/gameplay.png";
-            $card_desc = $concentration_summary;
-            include("project_card.php");
-          ?>
-        </div> <!-- col -->
-        <div class="col-sm-4">
-          <?php
-            $card_title = "Platformer";
-            $card_img = "assets/images/platformer/gameplay.png";
-            $card_desc = $concentration_summary;
-            include("project_card.php");
-          ?>
-        </div> <!-- col -->
-        <div class="col-sm-4">
-          <?php
-            $card_title = "Board Game";
-            $card_img = "assets/images/LWJGLTD/gameplay.png";
-            $card_desc = $concentration_summary;
-            include("project_card.php");
-          ?>
-        </div> <!-- col -->
-      </div> <!-- game dev row -->
     </div>
   </body>
 </html>
