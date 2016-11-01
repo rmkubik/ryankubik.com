@@ -29,6 +29,8 @@
             $card_img = $projects_data[$i]["projects"][$proj]["img"];
             $card_desc = $projects_data[$i]["projects"][$proj]["desc"];
             $card_href = $projects_data[$i]["projects"][$proj]["href"];
+            $card_label_text = $projects_data[$i]["projects"][$proj]["label"]["text"];
+            $card_label_color = $projects_data[$i]["projects"][$proj]["label"]["color"];
             include("project_card.php");
             echo '</div>';
             if ($col_count === 3 || $col_count === 0) {

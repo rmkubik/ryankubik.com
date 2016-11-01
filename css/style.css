@@ -115,3 +115,11 @@ body {
   text-decoration: none;
   color: #333;
 }
+
+.project-label {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}

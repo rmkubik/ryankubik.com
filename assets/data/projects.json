@@ -7,37 +7,61 @@
         "name":"Unstable",
         "desc":"Adventure through a series of different worlds to find your way back home.",
         "img":"assets/images/projects/unstable_pre_alpha.png",
-        "href":"https://law5guy.itch.io/unstable"
+        "href":"https://law5guy.itch.io/unstable",
+        "label": {
+          "text":"In Development",
+          "color":"default"
+        }
       },
       {
         "name":"Sweet & Spooky",
         "desc":"Explore as far as you can into this spooky mansion in this fast paced shooter.",
         "img":"assets/images/projects/sweet_n_spooky.gif",
-        "href":"http://www.gm48.net/game/?id=331"
+        "href":"http://www.gm48.net/game/?id=331",
+        "label": {
+          "text":"",
+          "color":""
+        }
       },
       {
         "name":"Procedural Voxel Terrain Generator",
         "desc":"Fly around procedurally generated terrain inside a custom built voxel engine.",
         "img":"",
-        "href":""
+        "href":"",
+        "label": {
+          "text":"In Development",
+          "color":"default"
+        }
       },
       {
         "name":"Gotta Match 'Em All",
         "desc":"Match all the pokemon copies together in this Pokemon inspired concentration game.",
         "img":"assets/images/projects/matchem.png",
-        "href":""
+        "href":"",
+        "label": {
+          "text":"",
+          "color":""
+        }
       },
       {
         "name":"A* Pathfinding Demo",
         "desc":"Place piles of gold and flood tiles to entice adventurers to move around the map.",
         "img":"assets/images/projects/pathfinder.png",
-        "href":"https://law5guy.itch.io/astar-pathfinder-demo"
+        "href":"https://law5guy.itch.io/astar-pathfinder-demo",
+        "label": {
+          "text":"",
+          "color":""
+        }
       },
       {
         "name":"Quest to Find All",
         "desc":"Look for all of the achievements hidden throughout the world.",
         "img":"assets/images/projects/quest_to_find_all.png",
-        "href":"https://wvugamedevelopers.itch.io/quest-to-find-all"
+        "href":"https://wvugamedevelopers.itch.io/quest-to-find-all",
+        "label": {
+          "text":"",
+          "color":""
+        }
       }
     ]
   },
@@ -49,7 +73,11 @@
         "name":"Edit Every Damn Day Calendar",
         "desc":"30 seconds of video edited every day by @AldenRoth2 on Instagram.",
         "img":"assets/images/projects/calendar.png",
-        "href":""
+        "href":"",
+        "label": {
+          "text":"In Development",
+          "color":"default"
+        }
       }
     ]
   },
@@ -62,7 +90,11 @@
         "name":"Brand & Advertisement Design",
         "desc":"Logos, Flyers, and Advertisements created for various events and organizations.",
         "img":"",
-        "href":"",
+        "href":"portfolio.php?cat=design&proj=brand",
+        "label": {
+          "text":"",
+          "color":0
+        },
         "items": [
           "assets/images/projects/calendar.png",
           "assets/images/placeholder.png",
@@ -83,7 +115,11 @@
         "name":"Pixel Art",
         "desc":"Forays into pixel art with an eventual intention to create sprites for my games.",
         "img":"",
-        "href":"",
+        "href":"portfolio.php?cat=design&proj=pixel",
+        "label": {
+          "text":"",
+          "color":0
+        },
         "items": []
       },
       {
@@ -91,7 +127,11 @@
         "name":"Vector Art",
         "desc":"Artistic works created using vectors rather than pixels.",
         "img":"",
-        "href":"",
+        "href":"portfolio.php?cat=design&proj=vector",
+        "label": {
+          "text":"",
+          "color":0
+        },
         "items": []
       }
     ]
