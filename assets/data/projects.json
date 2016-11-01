@@ -10,7 +10,7 @@
         "href":"https://github.com/rmkubik/unstable",
         "label": {
           "text":"In Development",
-          "color":"default"
+          "color":"warning"
         }
       },
       {
@@ -30,7 +30,7 @@
         "href":"",
         "label": {
           "text":"In Development",
-          "color":"default"
+          "color":"warning"
         }
       },
       {
@@ -76,7 +76,7 @@
         "href":"https://github.com/rmkubik/eedd-calendar",
         "label": {
           "text":"In Development",
-          "color":"default"
+          "color":"warning"
         }
       }
     ]
@@ -110,19 +110,41 @@
         "id":"pixel",
         "name":"Pixel Art",
         "desc":"Forays into pixel art with an eventual intention to create sprites for my games.",
-        "img":"",
+        "img":"assets/images/pixels/tree_island.png",
         "href":"portfolio.php?cat=design&proj=pixel",
         "label": {
           "text":"",
           "color":0
         },
-        "items": []
+        "items": [
+          "assets/images/pixels/prt_fire_pixel.png",
+          "assets/images/pixels/bomb.png",
+          "assets/images/pixels/dragon_egg.png",
+          "assets/images/pixels/dragon.png",
+          "assets/images/pixels/dwarf.png",
+          "assets/images/pixels/floating_island.png",
+          "assets/images/pixels/full_moon.png",
+          "assets/images/pixels/gold_pile.png",
+          "assets/images/pixels/kobold.png",
+          "assets/images/pixels/mummy.png",
+          "assets/images/pixels/night_skyline.png",
+          "assets/images/pixels/orc.png",
+          "assets/images/pixels/phone.png",
+          "assets/images/pixels/shark_attack.png",
+          "assets/images/pixels/shield.png",
+          "assets/images/pixels/sword.png",
+          "assets/images/pixels/thief.png",
+          "assets/images/pixels/tree_island.png",
+          "assets/images/pixels/tree.png",
+          "assets/images/pixels/wizard_front.png",
+          "assets/images/pixels/wizard_side.png"
+        ]
       },
       {
         "id":"vector",
         "name":"Vector Art",
         "desc":"Artistic works created using vectors rather than pixels.",
-        "img":"assets/images/vectors/Vectors-01.svg",
+        "img":"assets/images/vectors/controller.svg",
         "href":"portfolio.php?cat=design&proj=vector",
         "label": {
           "text":"",
