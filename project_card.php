@@ -10,7 +10,7 @@ if (!isset($card_href))
 ?>
 
 <div class="panel panel-default card-project">
-  <a class="thumbnail" href= <?php echo '"' . $card_href . '"'; ?> >
+  <a href= <?php echo '"' . $card_href . '"'; ?> >
     <div class="panel-heading">
       <img class="img-responsive" src= <?php echo '"' . $card_img . '"'; ?> />
     </div>
