@@ -122,13 +122,25 @@
         "id":"vector",
         "name":"Vector Art",
         "desc":"Artistic works created using vectors rather than pixels.",
-        "img":"",
+        "img":"assets/images/vectors/Vectors-01.svg",
         "href":"portfolio.php?cat=design&proj=vector",
         "label": {
           "text":"",
           "color":0
         },
-        "items": []
+        "items": [
+          "assets/images/vectors/controller.svg",
+          "assets/images/vectors/lightbulb.svg",
+          "assets/images/vectors/cup.svg",
+          "assets/images/vectors/ghost.svg",
+          "assets/images/vectors/pumpkin.svg",
+          "assets/images/vectors/bloons.svg",
+          "assets/images/vectors/gambino.svg",
+          "assets/images/vectors/turtle.svg",
+          "assets/images/vectors/camera.svg",
+          "assets/images/vectors/paintbrush.svg",
+          "assets/images/vectors/webdev.svg"
+        ]
       }
     ]
   }
