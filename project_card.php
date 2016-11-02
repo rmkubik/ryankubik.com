@@ -16,7 +16,7 @@ if (!isset($card_label_color) || $card_label_color === "")
 
 <div class="panel panel-default card-project">
   <a href= <?php echo '"' . $card_href . '"'; ?> >
-    <div class="panel-heading" style="position:relative;">
+    <div class="panel-heading">
       <img class="img-responsive" src= <?php echo '"' . $card_img . '"'; ?>/>
       <?php
         if($card_label_text !== "")

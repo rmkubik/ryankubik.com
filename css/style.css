@@ -10,17 +10,26 @@
 
 @media (min-width: 768px) {
   .img-icon {
-        width: 70px;
-    }
+    width: 70px;
+  }
+  .panel-heading {
+    max-height: 150px;
+  }
 }
 @media (min-width: 992px) {
     .img-icon {
         width: 90px;
     }
+    .panel-heading {
+      max-height: 200px;
+    }
 }
 @media (min-width: 1200px) {
     .img-icon {
         width: 90px;
+    }
+    .panel-heading {
+      max-height: 300px;
     }
 }
 
@@ -72,6 +81,8 @@ body {
 .panel-heading {
   padding: 0;
   border-bottom: 1px solid #ddd;
+  position:relative;
+  overflow: hidden;
 }
 
 .panel-heading .img-responsive {
