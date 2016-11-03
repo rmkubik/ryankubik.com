@@ -37,7 +37,7 @@
         "name":"Gotta Match 'Em All",
         "desc":"Match all the pokemon copies together in this Pokemon inspired concentration game.",
         "img":"assets/images/projects/matchem.png",
-        "href":"matchem",
+        "href":"matchem/matchem.php",
         "label": {
           "text":"",
           "color":""
@@ -117,7 +117,7 @@
           "color":0
         },
         "items": [
-          "assets/images/pixels/prt_fire_pixel.png",
+          "assets/images/pixels/prt_fire.png",
           "assets/images/pixels/bomb.png",
           "assets/images/pixels/dragon_egg.png",
           "assets/images/pixels/dragon.png",

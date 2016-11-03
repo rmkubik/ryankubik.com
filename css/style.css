@@ -88,6 +88,7 @@ body {
 .panel-heading .img-responsive {
   border-top-left-radius: 4px;
   border-top-right-radius: 4px;
+  margin: auto;
 }
 
 .panel {
