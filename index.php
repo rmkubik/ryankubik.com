@@ -16,7 +16,7 @@
         $string = file_get_contents("assets/data/projects.json");
         $projects_data = json_decode($string, true);
         for ($i = 0; $i < count($projects_data); $i++) {
-          echo '<h2>' . $projects_data[$i]["name"] . '</h2>';
+          echo '<h1>' . $projects_data[$i]["name"] . '</h1>';
           $col_count = 0;
           for ($proj = 0; $proj < count($projects_data[$i]["projects"]); $proj++) {
             if ($col_count === 3 || $col_count === 0) {
