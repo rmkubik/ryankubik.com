@@ -17,6 +17,7 @@
         $projects_data = json_decode($string, true);
         for ($i = 0; $i < count($projects_data); $i++) {
           echo '<h1>' . $projects_data[$i]["name"] . '</h1>';
+          echo '<div class="title-underline"></div>';
           $col_count = 0;
           for ($proj = 0; $proj < count($projects_data[$i]["projects"]); $proj++) {
             $col_count++;

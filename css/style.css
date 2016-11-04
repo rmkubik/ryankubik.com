@@ -187,3 +187,9 @@ body {
 .modal-body img {
   margin: auto;
 }
+
+.title-underline {
+  border-bottom: 4px #7FB1C9 solid;
+  margin-bottom: 8px;
+  margin-top: -6px;
+}
