@@ -27,9 +27,10 @@
                       $col_count++;
                   }
                   echo '<div class="col-sm-3">';
-                  echo '<div class="thumbnail">';
-                  echo '<img src="' . $projects_data[$i]["projects"][$proj]["items"][$item] . '"/>';
-                  echo '</div>';
+                  echo '<a class="thumbnail" data-target="#portfolio-modal" data-toggle="modal" href="#portfolio-modal" data-name="';
+                  echo $projects_data[$i]["projects"][$proj]["items"][$item]["name"] . '">';
+                  echo '<img src="' . $projects_data[$i]["projects"][$proj]["items"][$item]["href"] . '"/>';
+                  echo '</a>';
                   echo '</div>';
                   if ($col_count === 4 || $col_count === 0) {
                     echo '</div>';
@@ -43,6 +44,7 @@
             }
           }
         }
+        include("portfolio_modal.php");
       ?>
     </div>
   </body>

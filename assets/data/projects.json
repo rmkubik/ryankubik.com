@@ -1,169 +1,229 @@
-[
-  {
-    "id":"gamedev",
+[{
+    "id": "gamedev",
     "name": "Game Development",
-    "projects": [
-      {
-        "name":"Unstable",
-        "desc":"Adventure through a series of different worlds to find your way back home.",
-        "img":"assets/images/projects/unstable_pre_alpha.png",
-        "href":"https://github.com/rmkubik/unstable",
+    "projects": [{
+        "name": "Unstable",
+        "desc": "Adventure through a series of different worlds to find your way back home.",
+        "img": "assets/images/projects/unstable_pre_alpha.png",
+        "href": "https://github.com/rmkubik/unstable",
         "label": {
-          "text":"In Development",
-          "color":"warning"
+            "text": "In Development",
+            "color": "warning"
         }
-      },
-      {
-        "name":"Sweet & Spooky",
-        "desc":"Explore as far as you can into this spooky mansion in this fast paced shooter.",
-        "img":"assets/images/projects/sweet_n_spooky.gif",
-        "href":"http://www.gm48.net/game/?id=331",
+    }, {
+        "name": "Sweet & Spooky",
+        "desc": "Explore as far as you can into this spooky mansion in this fast paced shooter.",
+        "img": "assets/images/projects/sweet_n_spooky.gif",
+        "href": "http://www.gm48.net/game/?id=331",
         "label": {
-          "text":"",
-          "color":""
+            "text": "",
+            "color": ""
         }
-      },
-      {
-        "name":"Procedural Voxel Terrain Generator",
-        "desc":"Fly around procedurally generated terrain inside a custom built voxel engine.",
-        "img":"",
-        "href":"",
+    }, {
+        "name": "Procedural Voxel Terrain Generator",
+        "desc": "Fly around procedurally generated terrain inside a custom built voxel engine.",
+        "img": "",
+        "href": "",
         "label": {
-          "text":"In Development",
-          "color":"warning"
+            "text": "In Development",
+            "color": "warning"
         }
-      },
-      {
-        "name":"Gotta Match 'Em All",
-        "desc":"Match all the pokemon copies together in this Pokemon inspired concentration game.",
-        "img":"assets/images/projects/matchem.png",
-        "href":"matchem/matchem.php",
+    }, {
+        "name": "Gotta Match 'Em All",
+        "desc": "Match all the pokemon copies together in this Pokemon inspired concentration game.",
+        "img": "assets/images/projects/matchem.png",
+        "href": "matchem/matchem.php",
         "label": {
-          "text":"",
-          "color":""
+            "text": "",
+            "color": ""
         }
-      },
-      {
-        "name":"A* Pathfinding Demo",
-        "desc":"Place piles of gold and flood tiles to entice adventurers to move around the map.",
-        "img":"assets/images/projects/pathfinder.png",
-        "href":"https://law5guy.itch.io/astar-pathfinder-demo",
+    }, {
+        "name": "A* Pathfinding Demo",
+        "desc": "Place piles of gold and flood tiles to entice adventurers to move around the map.",
+        "img": "assets/images/projects/pathfinder.png",
+        "href": "https://law5guy.itch.io/astar-pathfinder-demo",
         "label": {
-          "text":"",
-          "color":""
+            "text": "",
+            "color": ""
         }
-      },
-      {
-        "name":"Quest to Find All",
-        "desc":"Look for all of the achievements hidden throughout the world.",
-        "img":"assets/images/projects/quest_to_find_all.png",
-        "href":"https://wvugamedevelopers.itch.io/quest-to-find-all",
+    }, {
+        "name": "Quest to Find All",
+        "desc": "Look for all of the achievements hidden throughout the world.",
+        "img": "assets/images/projects/quest_to_find_all.png",
+        "href": "https://wvugamedevelopers.itch.io/quest-to-find-all",
         "label": {
-          "text":"",
-          "color":""
+            "text": "",
+            "color": ""
         }
-      }
-    ]
-  },
-  {
-    "id":"webdev",
+    }]
+}, {
+    "id": "webdev",
     "name": "Web Development",
-      "projects": [
-      {
-        "name":"Edit Every Damn Day Calendar",
-        "desc":"30 seconds of video edited every day by @AldenRoth2 on Instagram.",
-        "img":"assets/images/projects/calendar.png",
-        "href":"https://github.com/rmkubik/eedd-calendar",
+    "projects": [{
+        "name": "Edit Every Damn Day Calendar",
+        "desc": "30 seconds of video edited every day by @AldenRoth2 on Instagram.",
+        "img": "assets/images/projects/calendar.png",
+        "href": "https://github.com/rmkubik/eedd-calendar",
         "label": {
-          "text":"In Development",
-          "color":"warning"
+            "text": "In Development",
+            "color": "warning"
         }
-      }
-    ]
-  },
-  {
-    "id":"design",
+    }]
+}, {
+    "id": "design",
     "name": "Graphic Design",
-    "projects": [
-      {
-        "id":"brand",
-        "name":"Brand & Advertisement Design",
-        "desc":"Logos, Flyers, and Advertisements created for various events and organizations.",
-        "img":"assets/images/brand/wvugdc_unity_workshop.jpg",
-        "href":"portfolio.php?cat=design&proj=brand",
+    "projects": [{
+        "id": "brand",
+        "name": "Brand & Advertisement Design",
+        "desc": "Logos, Flyers, and Advertisements created for various events and organizations.",
+        "img": "assets/images/brand/wvugdc_unity_workshop.jpg",
+        "href": "portfolio.php?cat=design&proj=brand",
         "label": {
-          "text":"",
-          "color":0
+            "text": "",
+            "color": 0
         },
-        "items": [
-          "assets/images/brand/wvugdc_unity_workshop.jpg",
-          "assets/images/brand/wvugdc_flyer.png",
-          "assets/images/brand/wvugdc_logo.svg",
-          "assets/images/brand/wvugdc_banner.png",
-          "assets/images/brand/skp_redesign.svg",
-          "assets/images/brand/skp_yearbook_ad.png",
-          "assets/images/brand/skp_jazz_ad.png",
-          "assets/images/brand/skp_poster.png"
-        ]
-      },
-      {
-        "id":"pixel",
-        "name":"Pixel Art",
-        "desc":"Forays into pixel art with an eventual intention to create sprites for my games.",
-        "img":"assets/images/pixels/tree_island.png",
-        "href":"portfolio.php?cat=design&proj=pixel",
+        "items": [{
+            "name": "WVUGDC Unity Workshop Flyer",
+            "href": "assets/images/brand/wvugdc_unity_workshop.jpg"
+        }, {
+            "name": "WVUGDC Flyer",
+            "href": "assets/images/brand/wvugdc_flyer.png"
+        }, {
+            "name": "WVUGDC Logo",
+            "href": "assets/images/brand/wvugdc_logo.svg"
+        }, {
+            "name": "WVUGDC Banner",
+            "href": "assets/images/brand/wvugdc_banner.png"
+        }, {
+            "name": "Steve Kubik Photography Logo",
+            "href": "assets/images/brand/skp_redesign.svg"
+        }, {
+            "name": "Steve Kubik Photography Yearbook Ad",
+            "href": "assets/images/brand/skp_yearbook_ad.png"
+        }, {
+            "name": "Steve Kubik Photography Ad",
+            "href": "assets/images/brand/skp_jazz_ad.png"
+        }, {
+            "name": "Steve Kubik Photography Poster",
+            "href": "assets/images/brand/skp_poster.png"
+        }]
+    }, {
+        "id": "pixel",
+        "name": "Pixel Art",
+        "desc": "Forays into pixel art with an eventual intention to create sprites for my games.",
+        "img": "assets/images/pixels/tree_island.png",
+        "href": "portfolio.php?cat=design&proj=pixel",
         "label": {
-          "text":"",
-          "color":0
+            "text": "",
+            "color": 0
         },
-        "items": [
-          "assets/images/pixels/prt_fire.png",
-          "assets/images/pixels/bomb.png",
-          "assets/images/pixels/dragon_egg.png",
-          "assets/images/pixels/dragon.png",
-          "assets/images/pixels/dwarf.png",
-          "assets/images/pixels/floating_island.png",
-          "assets/images/pixels/full_moon.png",
-          "assets/images/pixels/gold_pile.png",
-          "assets/images/pixels/kobold.png",
-          "assets/images/pixels/mummy.png",
-          "assets/images/pixels/night_skyline.png",
-          "assets/images/pixels/orc.png",
-          "assets/images/pixels/phone.png",
-          "assets/images/pixels/shark_attack.png",
-          "assets/images/pixels/shield.png",
-          "assets/images/pixels/sword.png",
-          "assets/images/pixels/thief.png",
-          "assets/images/pixels/tree_island.png",
-          "assets/images/pixels/tree.png",
-          "assets/images/pixels/wizard_front.png",
-          "assets/images/pixels/wizard_side.png"
-        ]
-      },
-      {
-        "id":"vector",
-        "name":"Vector Art",
-        "desc":"Artistic works created using vectors rather than pixels.",
-        "img":"assets/images/vectors/controller.svg",
-        "href":"portfolio.php?cat=design&proj=vector",
+        "items": [{
+            "name": "PRT Broken Down",
+            "href": "assets/images/pixels/prt_fire.png"
+        }, {
+            "name": "Bomb",
+            "href": "assets/images/pixels/bomb.png"
+        }, {
+            "name": "Dragon Egg",
+            "href": "assets/images/pixels/dragon_egg.png"
+        }, {
+            "name": "Dragon",
+            "href": "assets/images/pixels/dragon.png"
+        }, {
+            "name": "Dwarf",
+            "href": "assets/images/pixels/dwarf.png"
+        }, {
+            "name": "Floating Island",
+            "href": "assets/images/pixels/floating_island.png"
+        }, {
+            "name": "Full Moon",
+            "href": "assets/images/pixels/full_moon.png"
+        }, {
+            "name": "Gold Pile",
+            "href": "assets/images/pixels/gold_pile.png"
+        }, {
+            "name": "Kobold",
+            "href": "assets/images/pixels/kobold.png"
+        }, {
+            "name": "Mummy",
+            "href": "assets/images/pixels/mummy.png"
+        }, {
+            "name": "Night Skyline",
+            "href": "assets/images/pixels/night_skyline.png"
+        }, {
+            "name": "Orc",
+            "href": "assets/images/pixels/orc.png"
+        }, {
+            "name": "Phone",
+            "href": "assets/images/pixels/phone.png"
+        }, {
+            "name": "Shark Attack",
+            "href": "assets/images/pixels/shark_attack.png"
+        }, {
+            "name": "Shield",
+            "href": "assets/images/pixels/shield.png"
+        }, {
+            "name": "Sword",
+            "href": "assets/images/pixels/sword.png"
+        }, {
+            "name": "Thief",
+            "href": "assets/images/pixels/thief.png"
+        }, {
+            "name": "Tree Island",
+            "href": "assets/images/pixels/tree_island.png"
+        }, {
+            "name": "Tree",
+            "href": "assets/images/pixels/tree.png"
+        }, {
+            "name": "Wizard Front",
+            "href": "assets/images/pixels/wizard_front.png"
+        }, {
+            "name": "Wizard Side",
+            "href": "assets/images/pixels/wizard_side.png"
+        }]
+    }, {
+        "id": "vector",
+        "name": "Vector Art",
+        "desc": "Artistic works created using vectors rather than pixels.",
+        "img": "assets/images/vectors/controller.svg",
+        "href": "portfolio.php?cat=design&proj=vector",
         "label": {
-          "text":"",
-          "color":0
+            "text": "",
+            "color": 0
         },
-        "items": [
-          "assets/images/vectors/controller.svg",
-          "assets/images/vectors/lightbulb.svg",
-          "assets/images/vectors/cup.svg",
-          "assets/images/vectors/ghost.svg",
-          "assets/images/vectors/pumpkin.svg",
-          "assets/images/vectors/bloons.svg",
-          "assets/images/vectors/gambino.svg",
-          "assets/images/vectors/turtle.svg",
-          "assets/images/vectors/camera.svg",
-          "assets/images/vectors/paintbrush.svg",
-          "assets/images/vectors/webdev.svg"
-        ]
-      }
-    ]
-  }
-]
+        "items": [{
+            "name": "Controller",
+            "href": "assets/images/vectors/controller.svg"
+        }, {
+            "name": "Lightbulb",
+            "href": "assets/images/vectors/lightbulb.svg"
+        }, {
+            "name": "Cup",
+            "href": "assets/images/vectors/cup.svg"
+        }, {
+            "name": "Ghost",
+            "href": "assets/images/vectors/ghost.svg"
+        }, {
+            "name": "Pumpkin",
+            "href": "assets/images/vectors/pumpkin.svg"
+        }, {
+            "name": "Bloons",
+            "href": "assets/images/vectors/bloons.svg"
+        }, {
+            "name": "Gambino",
+            "href": "assets/images/vectors/gambino.svg"
+        }, {
+            "name": "Turtle",
+            "href": "assets/images/vectors/turtle.svg"
+        }, {
+            "name": "Camera",
+            "href": "assets/images/vectors/camera.svg"
+        }, {
+            "name": "Paintbrush",
+            "href": "assets/images/vectors/paintbrush.svg"
+        }, {
+            "name": "Webdev",
+            "href": "assets/images/vectors/webdev.svg"
+        }]
+    }]
+}]

@@ -15,8 +15,8 @@
   .panel-heading {
     max-height: 150px;
   }
-  .thumbnail {
-    max-width: 150px;
+  .thumbnail img {
+    max-height: 150px;
   }
 }
 @media (min-width: 992px) {
@@ -26,8 +26,8 @@
     .panel-heading {
       max-height: 200px;
     }
-    .thumbnail {
-      max-width: 200px;
+    .thumbnail img {
+      max-height: 200px;
     }
 }
 @media (min-width: 1200px) {
@@ -37,8 +37,8 @@
     .panel-heading {
       max-height: 300px;
     }
-    .thumbnail {
-      max-width: 300px;
+    .thumbnail img {
+      max-height: 300px;
     }
 }
 
@@ -174,4 +174,16 @@ body {
 .navbar-brand a:active {
   text-decoration: none;
   color: #5e5e5e;
+}
+
+.thumbnail {
+  overflow: hidden;
+}
+
+.modal-body {
+  position: relative;
+}
+
+.modal-body img {
+  margin: auto;
 }
