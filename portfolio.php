@@ -21,10 +21,9 @@
               if ($projects_data[$i]["projects"][$proj]["id"] === $_GET["proj"]) {
                 $col_count = 0;
                 for ($item = 0; $item < count($projects_data[$i]["projects"][$proj]["items"]); $item++) {
-                  if ($col_count === 4 || $col_count === 0) {
+                  $col_count++;
+                  if ($col_count === 1) {
                     echo '<div class="row">';
-                    if ($col_count === 0)
-                      $col_count++;
                   }
                   echo '<div class="col-sm-3">';
                   echo '<a class="thumbnail" data-target="#portfolio-modal" data-toggle="modal" href="#portfolio-modal" data-name="';
@@ -32,13 +31,12 @@
                   echo '<img src="' . $projects_data[$i]["projects"][$proj]["items"][$item]["href"] . '"/>';
                   echo '</a>';
                   echo '</div>';
-                  if ($col_count === 4 || $col_count === 0) {
+                  if ($col_count === 4) {
                     echo '</div>';
                     $col_count = 0;
                   }
-                  $col_count++;
                 }
-                if ($col_count !== 1)
+                if ($col_count !== 0)
                   echo '</div>';
               }
             }

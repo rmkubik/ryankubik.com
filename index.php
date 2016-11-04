@@ -19,10 +19,9 @@
           echo '<h1>' . $projects_data[$i]["name"] . '</h1>';
           $col_count = 0;
           for ($proj = 0; $proj < count($projects_data[$i]["projects"]); $proj++) {
-            if ($col_count === 3 || $col_count === 0) {
+            $col_count++;
+            if ($col_count === 1) {
               echo '<div class="row">';
-              if ($col_count === 0)
-                $col_count++;
             }
             echo '<div class="col-sm-4">';
             $card_title = $projects_data[$i]["projects"][$proj]["name"];
@@ -33,13 +32,12 @@
             $card_label_color = $projects_data[$i]["projects"][$proj]["label"]["color"];
             include("project_card.php");
             echo '</div>';
-            if ($col_count === 3 || $col_count === 0) {
+            if ($col_count === 3) {
               echo '</div>';
               $col_count = 0;
             }
-            $col_count++;
           }
-          if ($col_count !== 1)
+          if ($col_count !== 0)
             echo '</div>';
         }
       ?>
