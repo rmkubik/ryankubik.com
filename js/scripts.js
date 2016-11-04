@@ -6,4 +6,14 @@ window.onload = function() {
     modal.find(".modal-title").text(name);
     modal.find(".img-responsive").attr("src", thumbnail.attr("src"));
   });
+
+  $("nav li a").mouseover(function(){
+    var doc = $(this).find("object")[0].contentDocument;
+    $("path", doc).css("fill","black");
+  });
+
+  $("nav li a").mouseout(function(){
+    var doc = $(this).find("object")[0].contentDocument;
+    $("path", doc).css("fill","gray");
+  });
 }

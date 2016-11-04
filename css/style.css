@@ -194,11 +194,16 @@ body {
   margin-top: -6px;
 }
 
+li a:hover {
+  color: white;
+}
+
 .icon {
   max-width: 25px;
   max-height: 25px;
+  margin: auto;
 }
 
-a svg:hover #github {
-  fill: blue;
+svg {
+  cursor: pointer;
 }

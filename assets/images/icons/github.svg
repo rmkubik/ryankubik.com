@@ -1,6 +1,7 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52.36 51.06">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 52.36 51.06">
   <defs>
     <style>
+      @import url("/css/style.css");
       .cls-1 {
         fill: #787878;
       }
