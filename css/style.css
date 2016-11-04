@@ -189,7 +189,16 @@ body {
 }
 
 .title-underline {
-  border-bottom: 4px #7FB1C9 solid;
+  border-bottom: 4px #333 solid;
   margin-bottom: 8px;
   margin-top: -6px;
+}
+
+.icon {
+  max-width: 25px;
+  max-height: 25px;
+}
+
+a svg:hover #github {
+  fill: blue;
 }

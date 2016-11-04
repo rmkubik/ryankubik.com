@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51.26 51.14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #787878;
+      }
+    </style>
+  </defs>
+  <title>linkedin</title>
+  <g id="linkedin">
+    <path class="cls-1" d="M313.88,386.71h10.63v34.16H313.88V386.71Zm5.32-17a6.16,6.16,0,1,1-6.16,6.15,6.16,6.16,0,0,1,6.16-6.15" transform="translate(-313.04 -369.73)"/>
+    <path class="cls-1" d="M331.18,386.71h10.18v4.67h0.14a11.16,11.16,0,0,1,10.05-5.52c10.75,0,12.74,7.07,12.74,16.27v18.74H353.68V404.26c0-4-.08-9.06-5.52-9.06s-6.37,4.31-6.37,8.77v16.9H331.18V386.71Z" transform="translate(-313.04 -369.73)"/>
+  </g>
+</svg>
