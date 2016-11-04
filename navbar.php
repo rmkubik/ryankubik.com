@@ -11,13 +11,22 @@ if (!isset($home_active))
       </a>
     </div>
     <ul class="nav navbar-nav navbar-right">
-      <li><a href="https://law5guy.itch.io"><img class="icon" src="/assets/images/icons/itchio.svg"/>Itch.io</a></li>
+      <li><a href="https://law5guy.itch.io">
+        <object class="icon" data="/assets/images/icons/itchio.svg" type="image/svg+xml"></object>
+        Itch.io
+      </a></li>
       <li><a href="https://github.com/rmkubik">
         <object class="icon" data="/assets/images/icons/github.svg" type="image/svg+xml"></object>
         Github
       </a></li>
-      <li><a href="https://www.linkedin.com/in/ryankubik"><img class="icon" src="/assets/images/icons/linkedin.svg"/>LinkedIn</a></li>
-      <li><a href="https://twitter.com/ryrykubes"><img class="icon" src="/assets/images/icons/twitter.svg"/>Twitter</a></li>
+      <li><a href="https://www.linkedin.com/in/ryankubik">
+        <object class="icon" data="/assets/images/icons/linkedin.svg" type="image/svg+xml"></object>
+        LinkedIn
+      </a></li>
+      <li><a href="https://twitter.com/ryrykubes">
+        <object class="icon" data="/assets/images/icons/twitter.svg" type="image/svg+xml"></object>
+        Twitter
+      </a></li>
     </ul>
   </div>
 </nav>
