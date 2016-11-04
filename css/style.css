@@ -194,8 +194,13 @@ body {
   margin-top: -6px;
 }
 
-li a:hover {
-  color: white;
+.nav li a {
+  text-align: center;
+}
+
+.nav li a h5 {
+  font: inherit;
+  margin: inherit;
 }
 
 .icon {
