@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<?php
+			$title = "Catch 'Em All";
+			include($_SERVER['DOCUMENT_ROOT'] . "/header.php");
+		?>
 		<link rel="stylesheet" type="text/css" href="assets/fonts/fonts.css">
 		<script type="text/javascript" src="phaser.js"></script>
 		<script type="text/javascript" src="game.js"></script>
-		<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../css/style.css">
-    <script src="../js/jquery-1.11.3.min.js" type="text/javascript"></script>
-    <script src="../js/bootstrap.min.js" type="text/javascript"></script>
-    <script src="../js/scripts.js" type="text/javascript"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0,
       maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
