@@ -4,7 +4,7 @@ if (!isset($home_active))
 ?>
 
 <nav class="navbar navbar-default">
-  <div class="container-fluid">
+  <div class="container">
     <div class="navbar-brand">
       <a href="/">
         Ryan Kubik
