@@ -32,8 +32,11 @@
   .navbar-brand {
     margin-top: 8px;
   }
-}
 
+  .nav li a {
+    padding: 10px;
+  }
+}
 
 @media (min-width: 768px) {
   .img-icon {
