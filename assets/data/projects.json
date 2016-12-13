@@ -11,6 +11,15 @@
             "color": "warning"
         }
     }, {
+        "name": "Lobsterbotomy",
+        "desc": "Can you find love controlling your human as you get back in the dating game?",
+        "img": "assets/images/projects/lobsterbotomy.gif",
+        "href": "https://wvugamedevelopers.itch.io/lobsterbotomy",
+        "label": {
+            "text": "",
+            "color": ""
+        }
+    }, {
         "name": "Sweet & Spooky",
         "desc": "Explore as far as you can into this spooky mansion in this fast paced shooter.",
         "img": "assets/images/projects/sweet_n_spooky.gif",
