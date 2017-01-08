@@ -4,7 +4,7 @@
     "projects": [{
         "name": "Unstable",
         "desc": "Adventure through a series of different worlds to find your way back home.",
-        "img": "assets/images/projects/unstable_pre_alpha.png",
+        "img": "assets/images/projects/unstable_pre_alpha_2.png",
         "href": "https://github.com/rmkubik/unstable",
         "label": {
             "text": "In Development",
