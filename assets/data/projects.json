@@ -55,15 +55,6 @@
             "text": "",
             "color": ""
         }
-    }, {
-        "name": "Quest to Find All",
-        "desc": "Look for all of the achievements hidden throughout the world.",
-        "img": "assets/images/projects/quest_to_find_all.png",
-        "href": "https://wvugamedevelopers.itch.io/quest-to-find-all",
-        "label": {
-            "text": "",
-            "color": ""
-        }
     }]
 }, {
     "id": "webdev",
