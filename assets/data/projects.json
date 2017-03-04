@@ -68,6 +68,16 @@
             "text": "In Development",
             "color": "warning"
         }
+    },
+    {
+        "name": "Robots vs. Aliens Twitter Bot",
+        "desc": "A simulation of robots fighting aliens hourly.",
+        "img": "assets/images/projects/robovsalien.png",
+        "href": "https://github.com/rmkubik/robovsalien",
+        "label": {
+            "text": "New Release",
+            "color": "success"
+        }
     }]
 }, {
     "id": "design",
