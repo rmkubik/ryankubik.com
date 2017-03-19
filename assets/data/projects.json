@@ -128,6 +128,9 @@
             "color": 0
         },
         "items": [{
+            "name": "Pixel Town",
+            "href": "assets/images/pixels/pixel_town.png"
+        },{
             "name": "PRT Broken Down",
             "href": "assets/images/pixels/prt_fire.png"
         }, {
