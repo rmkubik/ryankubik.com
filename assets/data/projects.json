@@ -31,7 +31,7 @@
     }, {
         "name": "Procedural Voxel Terrain Generator",
         "desc": "Fly around procedurally generated terrain inside a custom built voxel engine.",
-        "img": "",
+        "img": "assets/images/projects/terrain_gen.png",
         "href": "",
         "label": {
             "text": "In Development",
