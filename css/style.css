@@ -219,12 +219,6 @@ body {
   margin: auto;
 }
 
-.title-underline {
-  border-bottom: 4px #333 solid;
-  margin-bottom: 8px;
-  margin-top: -6px;
-}
-
 .nav li a {
   text-align: center;
 }
