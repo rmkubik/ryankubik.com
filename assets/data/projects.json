@@ -10,6 +10,33 @@
             "text": "In Development",
             "color": "warning"
         }
+    },{
+        "name": "Infinite Icons",
+        "desc": "Your desktop is getting out of control!",
+        "img": "assets/images/projects/infinite_icons.png",
+        "href": "https://github.com/rmkubik/ldjam40",
+        "label": {
+            "text": "In Development",
+            "color": "warning"
+        }
+    },{
+        "name": "A Hike in the Woods",
+        "desc": "Wander around in the woods to try and get back to your tent.",
+        "img": "assets/images/projects/hike_in_the_woods.gif",
+        "href": "http://js13kgames.com/entries/a-hike-in-the-woods",
+        "label": {
+            "text": "",
+            "color": ""
+        }
+    },{
+        "name": "A Social Network",
+        "desc": "A little social network simulation. Connect all of the computers and people! ",
+        "img": "assets/images/projects/social_network.png",
+        "href": "https://ldjam.com/events/ludum-dare/38/a-social-network",
+        "label": {
+            "text": "",
+            "color": ""
+        }
     }, {
         "name": "Lobsterbotomy",
         "desc": "Can you find love controlling your human as you get back in the dating game?",
@@ -75,8 +102,8 @@
         "img": "assets/images/projects/robovsalien.png",
         "href": "https://github.com/rmkubik/robovsalien",
         "label": {
-            "text": "New Release",
-            "color": "success"
+            "text": "",
+            "color": ""
         }
     }]
 }]
