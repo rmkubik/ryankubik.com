@@ -2,6 +2,15 @@
     "id": "gamedev",
     "name": "Game Development",
     "projects": [{
+        "name": "Trainsmission",
+        "desc": "Can you get to the bottom of the murder mystery?",
+        "img": "assets/images/projects/trainsmission.png",
+        "href": "https://law5guy.itch.io/trainsmission",
+        "label": {
+            "text": "New Release",
+            "color": "success"
+        }
+    },{
         "name": "Unstable",
         "desc": "Adventure through a series of different worlds to find your way back home.",
         "img": "assets/images/projects/unstable_pre_alpha_2.png",
@@ -87,6 +96,15 @@
     "id": "webdev",
     "name": "Web Development",
     "projects": [{
+        "name": "Trainsmission Product Page",
+        "desc": "Promotional site for Global Game Jam 2018 game: Trainsmission",
+        "img": "assets/images/projects/trainsmission-site.png",
+        "href": "http://www.trainsmission.com",
+        "label": {
+            "text": "New Release",
+            "color": "success"
+        }
+    },{
         "name": "Edit Every Damn Day Calendar",
         "desc": "30 seconds of video edited every day by @AldenRoth2 on Instagram.",
         "img": "assets/images/projects/calendar.png",
