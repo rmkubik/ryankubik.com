@@ -39,7 +39,7 @@
         }
     },{
         "name": "A Social Network",
-        "desc": "A little social network simulation. Connect all of the computers and people! ",
+        "desc": "A little social network simulation. Connect all of the computers and people!",
         "img": "assets/images/projects/social_network.png",
         "href": "https://ldjam.com/events/ludum-dare/38/a-social-network",
         "label": {
@@ -97,7 +97,7 @@
     "name": "Web Development",
     "projects": [{
         "name": "Trainsmission Product Page",
-        "desc": "Promotional site for Global Game Jam 2018 game: Trainsmission",
+        "desc": "Promotional site for Global Game Jam 2018 game, Trainsmission",
         "img": "assets/images/projects/trainsmission-site.png",
         "href": "http://www.trainsmission.com",
         "label": {
@@ -106,7 +106,7 @@
         }
     },{
         "name": "Edit Every Damn Day Calendar",
-        "desc": "30 seconds of video edited every day by @AldenRoth2 on Instagram.",
+        "desc": "30 seconds of video edited every day by @AldenRoth2 on Instagram",
         "img": "assets/images/projects/calendar.png",
         "href": "https://github.com/rmkubik/eedd-calendar",
         "label": {
@@ -116,7 +116,7 @@
     },
     {
         "name": "Robots vs. Aliens Twitter Bot",
-        "desc": "A simulation of robots fighting aliens hourly.",
+        "desc": "A simulation of robots fighting aliens hourly",
         "img": "assets/images/projects/robovsalien.png",
         "href": "https://github.com/rmkubik/robovsalien",
         "label": {
